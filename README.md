@@ -39,3 +39,5 @@ User selects options until they exit.
 Language: Java
 IDE: VS Code / IntelliJ IDEA / Eclipse (any can be used)
 Concepts: Scanner, Loops, Conditionals, OOP
+
+https://github.com/jaydipporiya99/Java-ATM-Machine/blob/7ed9f6fce53209bd7be4d96ec6a3e53a3abc1c25/ATM%20OUTPUT.png
